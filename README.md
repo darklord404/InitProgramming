@@ -1,5 +1,3 @@
-# Init_programing
-1883: Algorithm for the Analytical Engine: Created by Ada Lovelace for Charles Babbage’s Analytical Engine to compute Bernoulli numbers, it’s considered to be the first computer programming language.
 # text,calculator and storage
 ##What is text 
 Traditionally, a text is understood to be a piece of written or spoken material in its primary form (as opposed to a paraphrase or summary). A text is any stretch of language that can be understood in context.
